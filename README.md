@@ -1,3 +1,9 @@
+<b>Release Notes</b>
+
+* First Push - Initial upload
+* Update Xmas Dinner Time Plan 2023 - Minor fixes
+* v0.2 - Parameterisation and code to enter formulas and formats automatically added (if there are problems with this version, please select the previous one, by selecting the individual Excel file, then History, and then the version marked Update Xmas Dinner Time Plan 2023
+
 <b>Introduction</b>
 
 This is my Christmas Dinner time plan spreadsheet, that I have been using for several years. I was asked if I would share it, and am happy to do so. But I do so on the understanding that I am unable to provide any warranty or support whatsoever. 
