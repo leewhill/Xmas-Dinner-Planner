@@ -2,7 +2,7 @@
 
 * First Push - Initial upload
 * Update Xmas Dinner Time Plan 2023 - Minor fixes
-* v0.2 - Parameterisation and code to enter formulas and formats automatically added (if there are problems with this version, please select the previous one, by selecting the individual Excel file, then History, and then the version marked Update Xmas Dinner Time Plan 2023
+* Update Xmas Dinner Time Plan 2023 v0.2 - Parameterisation and code to enter formulas and formats automatically added. If there are problems with this version, please use the previous version
 
 <b>Introduction</b>
 
